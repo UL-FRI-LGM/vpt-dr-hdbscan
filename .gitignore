@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+build
+settings
+*.bvp
+*.raw
+data/*
+.vscode
+parameter_testing
+bin/output.bin
+Lib
+Scripts
+bin/bumps.json
+ločeni rezultati
